@@ -1,10 +1,12 @@
 # GPT-RAG-Lite
 
-**GPT-RAG-Lite** is a minimal and efficient Retrieval-Augmented Generation (RAG) system built with **LangChain**. It uses FAISS for vector search and OpenAI GPT-3.5 for natural language generation.
-
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)](https://mr7yntpqnzgoy2bgegwqop.streamlit.app)
 
-🚀 **Test it live here**: [GPT-RAG-Lite Streamlit App](https://mr7yntpqnzgoy2bgegwqop.streamlit.app)
+---
+
+**GPT-RAG-Lite** is a minimal and efficient Retrieval-Augmented Generation (RAG) system built with **LangChain**. It uses **FAISS** for vector search and **OpenAI GPT-3.5** for generating natural language responses based on user-uploaded documents.
+
+This app lets users interact with their own text data via a simple **Streamlit** interface, enabling document-based question answering powered by modern AI.
 
 
 ## Features
