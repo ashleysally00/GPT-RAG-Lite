@@ -6,11 +6,6 @@
 
 🚀 **Test it live here**: [GPT-RAG-Lite Streamlit App](https://mr7yntpqnzgoy2bgegwqop.streamlit.app)
 
----
-
-**GPT-RAG-Lite** is a minimal and efficient Retrieval-Augmented Generation (RAG) system...
-
----
 
 ## Features
 - 🔍 **Vector Search** powered by FAISS (in-memory, fast).
