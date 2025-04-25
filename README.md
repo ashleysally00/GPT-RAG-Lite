@@ -51,3 +51,8 @@ Response: Key principles include data collection, preprocessing, model training,
 
 ## Streamlit Interface
 ![Streamlit Interface Screenshot](https://github.com/ashleysally00/GPT-RAG-Lite/blob/main/streamlit.png)
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
