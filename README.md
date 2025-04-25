@@ -1,6 +1,6 @@
 # GPT-RAG-Lite
 
-**GPT-RAG-Lite** is a minimal and efficient Retrieval-Augmented Generation (RAG) system using FAISS for vector search and OpenAI GPT-3.5 for natural language generation.
+**GPT-RAG-Lite** is a minimal and efficient Retrieval-Augmented Generation (RAG) system built with **LangChain**. It uses FAISS for vector search and OpenAI GPT-3.5 for natural language generation.
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)](https://mr7yntpqnzgoy2bgegwqop.streamlit.app)
 
