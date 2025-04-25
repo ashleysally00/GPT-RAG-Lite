@@ -46,5 +46,5 @@ export OPENAI_API_KEY=your_openai_api_key
 
 **Example Output**
 
-Query: What are the key principles of machine learning?
+Query: What are the key principles of machine learning? <br>
 Response: Key principles include data collection, preprocessing, model training, evaluation, and deployment.
