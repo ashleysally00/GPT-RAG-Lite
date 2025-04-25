@@ -48,3 +48,6 @@ export OPENAI_API_KEY=your_openai_api_key
 
 Query: What are the key principles of machine learning? <br>
 Response: Key principles include data collection, preprocessing, model training, evaluation, and deployment.
+
+## Streamlit Interface
+![Streamlit Interface Screenshot](https://github.com/ashleysally00/GPT-RAG-Lite/blob/main/streamlit.png)
