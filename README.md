@@ -52,6 +52,33 @@ Response: Key principles include data collection, preprocessing, model training,
 ## Streamlit Interface
 ![Streamlit Interface Screenshot](https://github.com/ashleysally00/GPT-RAG-Lite/blob/main/streamlit.png)
 
+# Live Demo
+
+Try the live app here: [GPT-RAG-Lite Streamlit App](https://mr7yntpqnzgoy2bgegwqop.streamlit.app)
+
+---
+
+## How to Deploy Your Own Streamlit App on Community Cloud
+
+1. **Push your project to GitHub** as a public repository.
+2. **Sign in to Streamlit Cloud** at [https://streamlit.io/cloud](https://streamlit.io/cloud) using GitHub.
+3. **Create a New App**:
+   - Click **"New app"**.
+   - Select your GitHub repo.
+   - Set the branch (e.g., `main`) and app file name (e.g., `app.py`).
+   - Click **Deploy**.
+4. **Set Secrets**:
+   - Go to **Manage App → Secrets**.
+   - Add your OpenAI key like this:
+     ```toml
+     OPENAI_API_KEY = "your_openai_api_key"
+     ```
+   - Save and redeploy if needed.
+
+Your app will now be live and shareable with anyone via your Streamlit Cloud URL☁️☁️💖
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
